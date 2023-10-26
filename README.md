@@ -2,6 +2,10 @@
 
 To get data from an API to send data to another.
 
-## License
+## how to install
+
+## how to use
+
+## license
 
 [MIT](./LICENSE)
